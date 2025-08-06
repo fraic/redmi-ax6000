@@ -20,7 +20,7 @@
 #echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >> "feeds.conf.default"
 #echo "src-git alist https://github.com/sbwml/luci-app-alist.git;main" >> "feeds.conf.default"
 #git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
-git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
+#git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 # 添加 Lucky 插件
 git clone https://github.com/sirpdboy/luci-app-lucky package/luci-app-lucky
 # 添加 ZeroTier 插件（可选也加 zerotier-tools 依赖）
