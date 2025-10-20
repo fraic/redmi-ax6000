@@ -22,7 +22,7 @@
 #git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 #git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 # 添加 Lucky 插件
-git clone https://github.com/sirpdboy/luci-app-lucky package/luci-app-lucky
+# git clone https://github.com/sirpdboy/luci-app-lucky package/luci-app-lucky
 # 添加 ZeroTier 插件（可选也加 zerotier-tools 依赖）
 #git clone https://github.com/kenzok8/luci-app-zerotier package/luci-app-zerotier
 
